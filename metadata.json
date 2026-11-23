@@ -1,0 +1,6 @@
+{
+  "name": "WordWacky",
+  "description": "A playful fill-in-the-blank Mad Libs style story game with solo & pass-and-play party modes, funny voice narration, and hilarious customizable tales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

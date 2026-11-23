@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">WordWacky</string>
+
+    <!-- Navigation -->
+    <string name="nav_stories">Stories</string>
+    <string name="nav_party">Party</string>
+    <string name="nav_laugh_book">Laugh Book</string>
+
+    <!-- Home / Story Shelf -->
+    <string name="home_tagline">Fill the blanks. Unleash the chaos.</string>
+    <string name="home_hero_title">Ready for a Wild Story?</string>
+    <string name="home_hero_subtitle">Pick any tale or hit Surprise Me for instant laughs.</string>
+    <string name="action_surprise_me">Surprise Me</string>
+    <string name="action_play_now">Play</string>
+    <string name="category_all">All Tales</string>
+    <string name="category_scifi">Sci-Fi</string>
+    <string name="category_fantasy">Fantasy</string>
+    <string name="category_everyday">Everyday</string>
+    <string name="category_mystery">Mystery</string>
+    <string name="blanks_count_format">%1$d blanks</string>
+    <string name="played_badge">Played</string>
+    <string name="party_banner_active">Party Mode: %1$d players ready!</string>
+    <string name="party_banner_solo">Solo Mode • Tap Party tab to pass &amp; play</string>
+
+    <!-- Fill in the Blanks Studio -->
+    <string name="studio_step_format">Word %1$d of %2$d</string>
+    <string name="studio_turn_banner">%1$s\'s Turn — No peeking!</string>
+    <string name="studio_input_placeholder">Type something hilarious…</string>
+    <string name="studio_ideas_label">Need a spark? Tap an idea:</string>
+    <string name="action_random_word">Random word</string>
+    <string name="action_fill_all_random">Auto-Fill Rest</string>
+    <string name="action_previous">Back</string>
+    <string name="action_next_word">Next Word</string>
+    <string name="action_reveal_story">Reveal Story!</string>
+    <string name="dialog_exit_title">Leave this story?</string>
+    <string name="dialog_exit_body">Your wacky words so far will vanish into the plot hole!</string>
+    <string name="dialog_exit_stay">Keep Writing</string>
+    <string name="dialog_exit_leave">Leave</string>
+
+    <!-- Story Reveal -->
+    <string name="reveal_header_badge">THE GRAND REVEAL</string>
+    <string name="reveal_dramatic_mode">Tap-to-Reveal</string>
+    <string name="reveal_instant_mode">Show All</string>
+    <string name="reveal_tap_hint">Tap hidden blanks to unveil punchlines, or tap any word to remix it!</string>
+    <string name="reveal_narrator_title">Funny Voice Narrator</string>
+    <string name="action_read_aloud">Read Aloud</string>
+    <string name="action_stop_reading">Stop Voice</string>
+    <string name="reveal_rate_title">How hard did you laugh?</string>
+    <string name="action_share_story">Share</string>
+    <string name="action_copy_story">Copy</string>
+    <string name="action_play_again">Remix Words</string>
+    <string name="action_next_random">Next Tale</string>
+    <string name="snackbar_copied">Story copied to clipboard!</string>
+    <string name="dialog_edit_word_title">Swap This Word</string>
+    <string name="dialog_edit_word_by">Entered by %1$s</string>
+    <string name="dialog_save">Update</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="share_chooser_title">Share your WordWacky story</string>
+
+    <!-- Party Mode -->
+    <string name="party_title">Pass &amp; Play Party</string>
+    <string name="party_subtitle">Add 2–4 friends and take turns filling blanks blindly before the big read-aloud!</string>
+    <string name="party_enable_label">Enable Party Mode</string>
+    <string name="party_enable_desc">Take turns passing the phone for each blank</string>
+    <string name="party_players_header">Players (%1$d / 4)</string>
+    <string name="party_add_player">Add Player</string>
+    <string name="party_player_hint">Player name</string>
+    <string name="party_spin_title">Spin the Story Wheel</string>
+    <string name="party_spin_subtitle">Let fate choose your group\'s next ridiculous adventure!</string>
+    <string name="party_spin_button">Launch Random Party Story</string>
+
+    <!-- Laugh Book -->
+    <string name="laugh_book_title">Your Laugh Book</string>
+    <string name="laugh_book_subtitle">Every ridiculous tale you\'ve crafted this session.</string>
+    <string name="laugh_book_empty_title">No Tales Crafted Yet!</string>
+    <string name="laugh_book_empty_body">Play your first story and your wildest creations will appear right here for re-reading and sharing.</string>
+    <string name="laugh_book_start_playing">Pick a Story</string>
+    <string name="laugh_book_clear_all">Clear Book</string>
+
+    <!-- Accessibility -->
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_dice">Pick a random funny word</string>
+    <string name="cd_hero_art">Whimsical storybook illustration</string>
+    <string name="cd_pack_art">Story category illustration</string>
+    <string name="cd_remove_player">Remove player</string>
+    <string name="cd_delete_story">Delete completed story</string>
+    <string name="cd_star_rating">Rate laugh %1$d out of 5</string>
+</resources>
